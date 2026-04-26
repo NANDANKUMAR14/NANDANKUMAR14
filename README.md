@@ -4,6 +4,12 @@
 
 ---
 
+## 💡Quote of the day 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote Card" />
+</p>
+
+
 ## 👨‍💻 About Me
 
 - 🎓2nd year Computer Science Student
